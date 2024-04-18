@@ -24,6 +24,8 @@ The main objective was to apply and improve my recently acquired knowledge of th
 
 All the images and information are fictitious and have no purpose in providing relevant information on the subject.
 
+Layout taken partly from the Figma platform. 
+
 ## Technologies Used
 
 ### Front-End:
